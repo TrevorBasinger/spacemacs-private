@@ -1,6 +1,4 @@
 
-(print "Got here!!!!!")
-
 ;; PEC specific functions
 (defun run-sql-cmd (db query)
   "Run a cmd in sql"
